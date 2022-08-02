@@ -1,5 +1,6 @@
 # 💫 About Me:
-    Hi, im Victor Asencio - 👨‍💻
+Hi, im Victor Asencio.
+I am a Higher Level Technician - Programmer Analyst student at the INACAP Professional Institute in Chile. I am a person who is always willing to learn new things and develop new technologies. Currently I am dedicated to Full-Stack Web Development. With the Agile Extreme Programming (XP) Methodology, Scrum and Kanban.
 
 
 ## 🌐 Socials:
